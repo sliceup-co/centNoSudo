@@ -1,1 +1,1 @@
-# cent_install_script4
+# cent_install_script No sudo
